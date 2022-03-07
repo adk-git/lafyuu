@@ -66,7 +66,7 @@ class _HomeScreenState extends State<HomeScreen> {
           SizedBox(height: 24 * h),
           TwoWordsWidget(
             leftName: "Category",
-            rightName: "More Category",
+            rightName: "More category",
             onTapNext: () {
               Navigator.push(
                 context,
